@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 [^resume]: # Резюме
       Привет я Юрий, занимаюсь frontend разработкой. 
+      <br>
       in progress...
 
 [^cv]: # CV Junior react developer
