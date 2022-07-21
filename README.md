@@ -1,11 +1,12 @@
 # Важное
-  - Portfolio[^portfolio]
-  - CV[^CV]
-  - Links[^Links]
+  - Резюме[^resume]
+  - CV[^cv]
+  - Links[^links]
 
 ### Привет всем 👋
 
 ![small](https://www.codewars.com/users/mork1ch/badges/small)
+
 <!--
 **mork1ch/mork1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,9 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[^portfolio]: # Portfolio
+[^resume]: # Резюме
+      Привет я Юрий, занимаюсь frontend разработкой. 
+      in progress...
 
-[^CV]: # CV Junior react developer
+[^cv]: # CV Junior react developer
 
       Юрий Садовский
 
@@ -47,10 +50,12 @@ Here are some ideas to get you started:
       3. Разработка клиентской и серверной части веб-приложения во время учебы
          - Инструменты и технологии: PHP, mvc JavaScript, HTML, CSS, jQuery, PhpMyAdmin, MySQL
 
-[^Links]: # Links
+[^links]: # Links
       - [Git](https://github.com/mork1ch)
       - [Telegramm](https://t.me/yuriy_sadovskiy)
       - mail: yuriy_sadowskiy.work@mail.ru
       - [Vk](https://vk.com/mork_work)
+      - [linkedIn](https://www.linkedin.com/in/%D1%8E%D1%80%D0%B8%D0%B9-%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-83896b230/)
+      - [Хабр Карьера](https://career.habr.com/mork1ch)
 
 ![cat](https://user-images.githubusercontent.com/54836797/180250116-b7fa32ae-bd63-4e9e-8410-15c26b2af47a.jpg)
