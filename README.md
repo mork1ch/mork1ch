@@ -56,7 +56,8 @@ Here are some ideas to get you started:
       - [Telegramm](https://t.me/yuriy_sadovskiy)
       - mail: yuriy_sadowskiy.work@mail.ru
       - [Vk](https://vk.com/mork_work)
-      - [linkedIn](https://www.linkedin.com/in/%D1%8E%D1%80%D0%B8%D0%B9-%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-83896b230/)
+      - [linked In](https://www.linkedin.com/in/%D1%8E%D1%80%D0%B8%D0%B9-%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-83896b230/)
       - [Хабр Карьера](https://career.habr.com/mork1ch)
+      - [hh](https://spb.hh.ru/resume/1f299d3aff0b1738560039ed1f5a45704c7956)
 
 ![cat](https://user-images.githubusercontent.com/54836797/180250116-b7fa32ae-bd63-4e9e-8410-15c26b2af47a.jpg)
