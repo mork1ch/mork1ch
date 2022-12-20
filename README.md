@@ -32,12 +32,12 @@ Here are some ideas to get you started:
       Юрий Садовский
 
       **Технические навыки**
-      - Языки программирования: JavaScript, php, c, c# ,MySQL
+      - Языки программирования: JavaScript, php, c, c# 
       - Прочие языки: html5, css3
       - Фреймворки и библиотеки: React.js,  jquery
       - Препроцессоры: Scss, Sass
       - Методологии разработки: Kanban, Scrum
-      - Прочие инструменты и технологии: Trello, jira, git, figma, open server, React-redux, React-router, Axios
+      - Прочие инструменты и технологии: Trello, jira, git, figma, open server, React-redux, React-router, Axios, MySQL
 
       **Опыт работы:**
       1. Разработка клиентской части интернет магазина. 
